@@ -1,5 +1,18 @@
-# Pandas
+<div style="display:flex; justify-content: center; align-items: center ; height" 100vh" align=center>
+  <img src='https://github.com/BaraSedih11/pandas/assets/98843912/51b2c8af-bfd2-49a3-8e57-a015ed938526' /> 
 
+  <br />
+  <br />
+  
+   ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/pandas) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/pandas) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+[![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
+ ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/pandas/main)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/pandas/releases/tag/v1.0.0)
+[![Contributors](https://img.shields.io/github/contributors/BaraSedih11/pandas)](https://github.com/BaraSedih11/pandas/graphs/contributors)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/pandas)
+<!-- ![GitHub issues](https://img.shields.io/github/issues-raw/BaraSedih11/Bookstore)  -->
+</div>
+<br />
 This repository contains examples and tutorials for working with Pandas, a powerful data manipulation and analysis library for Python.
 
 ## Contents
